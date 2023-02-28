@@ -1,0 +1,61 @@
+---
+title: Test your App and get a Demo Video for free!
+content: |
+  [title][/title]
+  [list]
+  [*]Where: German Perl/Raku Workshop (Frankfurt)
+  [*]When: February 27 - March 1 2023
+  [*]Who: Tina Müller
+  [/list]
+
+---
+title: About me
+content: |
+  [title][/title]
+  [list animation="1,appear"]
+  [*]Addicted to Perl since 1998
+  [*]Addicted to YAML since 2017
+  [*]Engineer at SUSE Software Solutions [img=suse_logo_small.png]SUSE[/img] since 2019
+  [/list]
+
+
+---
+title: OpenQA
+content: |
+  [title][/title]
+  [list]
+  [*]openQA is an automated test tool for operating systems
+  [*][url=https://openqa.opensuse.org/]OpenQA Website for openSUSE[/url]
+  [*][url=https://openqa.fedoraproject.org/]OpenQA for Fedora[/url]
+  [*][url=https://openqa.debian.net/]OpenQA for Debian[/url]
+  [/list]
+
+---
+title: Demo
+content: |
+  [title][/title]
+  [size=120]
+  Demo!
+  [/size]
+
+
+
+---
+title: Links
+content: |
+  [title][/title]
+  [list]
+  [*][url=https://matrix.to/#/#openqa:opensuse.org]OpenQA Channel on Matrix[/url]
+  [*][url=https://open.qa/]OpenQA Documentation[/url]
+  [*][url=https://openqa.opensuse.org/]OpenQA Website for openSUSE[/url]
+  [*]Repositories for Demo Test: [url=https://github.com/perlpunk/openqa-simple-starter]Tests[/url]
+     and [url=https://github.com/perlpunk/openqa-simple-starter-needles]needles[/url]
+  [/list]
+
+---
+title: Thanks
+content: |
+  [size=80][br]Thanks![br]
+  [color=green]🙂[/color][/size]
+
+
